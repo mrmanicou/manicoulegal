@@ -11,12 +11,15 @@ export default class SearchResults extends Component {
             <h1>Manicou Legal</h1>
             <p>
               This is a proof of concept application demonstrating the feasibility of using a
-              serverless architecture for a real life project. The information provided is not
-              authoritative, and your usage of this site implies that you agree that we cannot be
-              held liable for inaccurate information. All rights belong to the copyright holders. In
-              the case of the Laws of Grenada, they belong to the Government of Grenada. If you need
-              accurate and up-to-date references to the Laws of Grenada, please go to &nbsp;
-              <a href="http://laws.gov.gs">the official Laws of Grenada website</a>
+              serverless architecture for a statically hosted real life project.
+            </p>
+            <p>
+              The information provided is not authoritative, and your usage of this site implies
+              that you agree that we cannot be held liable for inaccurate information. All rights
+              belong to the copyright holders. In the case of the Laws of Grenada, they belong to
+              the Government of Grenada. If you need accurate and up-to-date references to the Laws
+              of Grenada, please go to &nbsp;
+              <a href="http://laws.gov.gd">the official Laws of Grenada website</a>
             </p>
             <h2>Tech Stack</h2>
             <p>
@@ -51,7 +54,7 @@ export default class SearchResults extends Component {
             </p>
             <h2>Source Code</h2>
             <p>
-              <a href="http">Github repo</a>
+              <a href="https://github.com/mrmanicou/manicoulegal">Github repo</a>
             </p>
             <h2>Usage</h2>
             <p>
